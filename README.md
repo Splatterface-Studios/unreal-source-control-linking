@@ -1,1 +1,1 @@
-# unreal-source-control-linking
+# vscode-source-control-linking
